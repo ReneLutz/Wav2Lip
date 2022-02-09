@@ -6,7 +6,8 @@ requirements = [
     'opencv-python',
     'scipy',
     'numba',
-    'librosa'
+    'librosa==0.8.1',
+    'tqdm'
 ]
 
 setup(
